@@ -57,7 +57,11 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+This project is a website for a personal portfolio for myself as an art student. This is to keep track of the art outputs I will produce troughout my school year as an art student.
+
+The website has about 4 pages in total, the first one is the Home page where you will find the cover page of the website. Then next on the navigation bar located above, you will find the AboutMe page where information about me and my educational background is listed in, also including my skills that I have learned and are still currently learning. Next is the Artworks page where a gallery of my recent artworks are posted together. Lastly, the ContactMe page is where links of my social accounts as posted so people will know where to contact me.
+
+The technology used in the project are HTML and CSS. HTML is used to create and structure content on the web with the use of websites. CSS is used to input design codes on the HTML to make it more appealing to the eyes.
 
 Guiding Question:
 - What is the project
@@ -118,15 +122,9 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-
-| gallery | to display my artworks and also for icons | https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj2naKF1JeJAxUDslYBHegDLfcQFnoECBgQAQ&url=https%3A%2F%2Fwww.w3schools.com%2Fcss%2Fcss_image_gallery.asp&usg=AOvVaw1qy1QYsW5WuQV-t7-yaz0s&opi=89978449 |
-
-| image as link | to use image as link redirector |https://www.w3schools.com/html/tryit.asp?filename=tryhtml_links_image |
-
-| font | have a reference for selection of fonts | https://www.w3.org/Style/Examples/007/fonts.en.html |
-
-| background img | to reposition bg img | https://www.w3schools.com/css/css_rwd_images.asp , https://www.w3schools.com/html/html_images_background.asp|
-
-| background color | to change the background color | https://blog.hubspot.com/website/change-background-color-html |
-
-| css codes | reference for css codes and how to use them | https://github.com/zyx-0314/WD-Code-Demo-1-TD21/commit/a0f82e489d03684a1f70618d8ba5016c7fc9c9ae#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051R49 |
+| gallery | to display my artworks and also for icons. | https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj2naKF1JeJAxUDslYBHegDLfcQFnoECBgQAQ&url=https%3A%2F%2Fwww.w3schools.com%2Fcss%2Fcss_image_gallery.asp&usg=AOvVaw1qy1QYsW5WuQV-t7-yaz0s&opi=89978449 |
+| image as link | to use image as link redirector. | https://www.w3schools.com/html/tryit.asp?filename=tryhtml_links_image |
+| font | have a reference for selection of fonts. | https://www.w3.org/Style/Examples/007/fonts.en.html |
+| background img |  to reposition background img. | https://www.w3schools.com/css/css_rwd_images.asp , https://www.w3schools.com/html/html_images_background.asp |
+| background color | to change the background color. | https://blog.hubspot.com/website/change-background-color-html |
+| css codes | reference for css codes and how to use them. | https://github.com/zyx-0314/WD-Code-Demo-1-TD21/commit/a0f82e489d03684a1f70618d8ba5016c7fc9c9ae#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051R49 |
