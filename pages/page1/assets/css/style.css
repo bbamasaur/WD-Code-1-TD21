@@ -1,0 +1,199 @@
+/* * Global Selector */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+}
+/* Reset Anchor Code */
+a {
+  color: black;
+  text-decoration: none;
+}
+
+body {
+  background: radial-gradient(
+    circle,
+    rgb(230, 72, 151) 0%,
+    rgb(255, 151, 199) 100%
+  );
+}
+.header {
+  display: flex;
+  background: rgb(255, 130, 193);
+  background: radial-gradient(
+    circle,
+    rgb(255, 151, 199) 0%,
+    rgb(230, 72, 151) 100%
+  );
+  flex-flow: flex-end;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 5rem;
+  height: 10dvh;
+  border: 0px rgba(230, 70, 139, 0.31) solid;
+  .logo {
+    width: 4rem;
+  }
+  .left-header {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    nav {
+      display: flex;
+      justify-content: center;
+      gap: 0.5rem;
+    }
+  }
+}
+nav {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.5rem;
+}
+
+.btn {
+  padding: 0.7rem 1.7rem;
+  &.nav-btn {
+    /* outline: 3px dotted pink; */
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    font-size: 0.8rem;
+    height: 10dvh;
+    display: flex;
+    align-items: center;
+    border-bottom: 2px transparent solid;
+    transition: all ease 1s;
+    &.active {
+      border-bottom: 2px rgba(230, 70, 139, 0.31, 0.75) solid;
+      transform: scale(1.05);
+    }
+    &:hover {
+      border-bottom: 2px rgb(255, 255, 255) solid;
+      background-color: rgb(146, 14, 69, 0.75);
+      transform: scale(1.05);
+      p {
+        color: rgb(255, 255, 255);
+      }
+    }
+  }
+}
+
+.hero {
+  height: calc(90dvh - 16rem);
+  padding-left: 5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+
+    h2 {
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      font-size: 3rem;
+      text-shadow: 0 0 15px rgb(251, 68, 141);
+      &:hover {
+        color: rgb(255, 255, 255);
+        text-shadow: 0 0 20px rgb(255, 255, 255);
+      }
+      }
+    h3 {
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      font-size: 3rem;
+      text-shadow:  0 0 15px rgb(251, 68, 141);
+      &:hover {
+        color: rgb(255, 255, 255);
+        text-shadow: 0 0 20px rgb(255, 255, 255);
+      }
+      }
+    h4 {
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      font-size: 3rem;
+      text-shadow: 0 0 15px rgb(251, 68, 141);
+      &:hover {
+        color: rgb(255, 255, 255);
+        text-shadow: 0 0 20px rgb(255, 255, 255);
+      }
+      }
+      p1 {
+        font-family: "optima", sans-serif;
+        font-size: 1rem;
+        font-weight: 100;
+        font-style: italic;
+        line-height: 1.5rem;
+      }
+      p2 {
+        font-family: "optima", sans-serif;
+        font-size: 1rem;
+        font-weight: 100;
+        font-style: italic;
+        line-height: 1.5rem;
+      }
+      p3 {
+        font-family: "optima", sans-serif;
+        font-size: 1rem;
+        font-weight: 100;
+        font-style: italic;
+        line-height: 1.5rem;
+      }
+      p4 {
+        font-family: "optima", sans-serif;
+        font-size: 1rem;
+        font-weight: 100;
+        font-style: italic;
+        line-height: 1.5rem;
+      }
+      p5 {
+        font-family: "optima", sans-serif;
+        font-size: 1rem;
+        font-weight: 100;
+        font-style: italic;
+        line-height: 1.5rem;
+      }
+      p6 {
+        font-family: "optima", sans-serif;
+        font-size: 1rem;
+        font-weight: 100;
+        font-style: italic;
+        line-height: 1.5rem;
+      }
+      p7 {
+        font-family: "optima", sans-serif;
+        font-size: 1rem;
+        font-weight: 100;
+        font-style: italic;
+        line-height: 1.5rem;
+      }
+      p8 {
+        font-family: "optima", sans-serif;
+        font-size: 1rem;
+        font-weight: 100;
+        font-style: italic;
+        line-height: 1.5rem;
+      }
+      p9 {
+        font-family: "optima", sans-serif;
+        font-size: 1rem;
+        font-weight: 100;
+        font-style: italic;
+        line-height: 1.5rem;
+      }
+      p10 {
+        font-family: "optima", sans-serif;
+        font-size: 1rem;
+        font-weight: 100;
+        font-style: italic;
+        line-height: 1.5rem;
+      }
+    }
+    .separator {
+      padding-top: 2.5rem;
+      border: 0px rgb(255, 130, 193) solid;
+      width: 10%;
+    }
+    & .bg{
+      padding-bottom: 30rem;
+      width: 80%;
+      position: fixed;
+      align-self: flex-end;
+      z-index: -1;
+      overflow: hidden;
+      }
