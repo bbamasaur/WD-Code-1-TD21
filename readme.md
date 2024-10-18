@@ -63,12 +63,6 @@ The website has about 4 pages in total, the first one is the Home page where you
 
 The technology used in the project are HTML and CSS. HTML is used to create and structure content on the web with the use of websites. CSS is used to input design codes on the HTML to make it more appealing to the eyes.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
-
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
