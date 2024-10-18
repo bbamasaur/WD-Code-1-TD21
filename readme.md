@@ -6,14 +6,14 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/logo.gif" alt="Bammasaur Creations" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Art Portfolio - Pham Bautista</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  A website of my background information with relation to arts, together with a gallery of my recent artworks.
 </div>
 
 <br />
@@ -118,3 +118,15 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+
+| gallery | to display my artworks and also for icons | https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj2naKF1JeJAxUDslYBHegDLfcQFnoECBgQAQ&url=https%3A%2F%2Fwww.w3schools.com%2Fcss%2Fcss_image_gallery.asp&usg=AOvVaw1qy1QYsW5WuQV-t7-yaz0s&opi=89978449 |
+
+| image as link | to use image as link redirector |https://www.w3schools.com/html/tryit.asp?filename=tryhtml_links_image |
+
+| font | have a reference for selection of fonts | https://www.w3.org/Style/Examples/007/fonts.en.html |
+
+| background img | to reposition bg img | https://www.w3schools.com/css/css_rwd_images.asp , https://www.w3schools.com/html/html_images_background.asp|
+
+| background color | to change the background color | https://blog.hubspot.com/website/change-background-color-html |
+
+| css codes | reference for css codes and how to use them | https://github.com/zyx-0314/WD-Code-Demo-1-TD21/commit/a0f82e489d03684a1f70618d8ba5016c7fc9c9ae#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051R49 |
